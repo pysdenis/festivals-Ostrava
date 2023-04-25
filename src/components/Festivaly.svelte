@@ -16,7 +16,7 @@
         name: "Soldout festival",
         description: "Soldout festival je hudební festival zaměřený na rap a elektronickou hudbu. Koná se v prostorách areálu Dolní oblast Vítkovice.",
         url: "https://www.smsticket.cz/vstupenky/33357-soldout-festival-2023",
-        image: "https://www.smsticket.cz/cdn/events/2023/33357/315-ec766bc5bc8c456c84114c3d9ed67e91.jpg"
+        image: "https://soldoutfestival.cz/wp-content/uploads/2023/01/logo-430x163.png"
       },
       {
         name: "Ostravský Majáles",
