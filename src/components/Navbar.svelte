@@ -10,17 +10,17 @@
     <nav class="nav font-semibold text-lg">
         <ul class="flex items-center">
             <li class="text-slate-200 p-4 border-b-2 border-cyan-500 border-opacity-0 hover:border-opacity-100 hover:text-cyan-500 duration-200 cursor-pointer">
-              <a href="#festivaly">
+              <a href="/home#festivaly">
                 Festivaly
             </a>
             </li>
             <li class="text-slate-200 p-4 border-b-2 border-cyan-500 border-opacity-0 hover:border-opacity-100 hover:text-cyan-500 duration-200 cursor-pointer">
-              <a href="#koncerty">
+              <a href="/home#koncerty">
                 Koncerty
             </a>
             </li>
             <li class="text-slate-200 p-4 border-b-2 border-cyan-500 border-opacity-0 hover:border-opacity-100 hover:text-cyan-500 duration-200 cursor-pointer">
-              <a href="#kontakt">
+              <a href="/contact">
                 Kontakt
             </a>
             </li>
