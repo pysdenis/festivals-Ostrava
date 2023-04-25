@@ -5,6 +5,7 @@
     import MainCarousel from "../../components/MainCarousel.svelte";
     import Festivaly from "../../components/Festivaly.svelte";
 	import Koncerty from "../../components/Koncerty.svelte";
+    import Kontakt from "../../components/Kontakt.svelte"
 </script>
 <body>
     
@@ -18,6 +19,8 @@
     <Festivaly />
 
     <Koncerty />
+
+    <Kontakt />
 
 </body>
 
