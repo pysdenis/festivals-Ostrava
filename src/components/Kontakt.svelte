@@ -1,6 +1,6 @@
 
-<h2 class="bg-gray-800 text-center pt-8 text-base text-slate-200 font-semibold tracking-wide uppercase" id="koncerty">Kontaktujte nás napřímo</h2>
-<form action="https://api.staticforms.xyz/submit" method="post" class="bg-gray-800 shadow-md rounded px-28 pt-6 pb-8">
+<h2 class="bg-gray-800 text-center text-base text-slate-200 font-semibold tracking-wide uppercase" id="koncerty">Kontaktujte nás napřímo</h2>
+<form action="https://api.staticforms.xyz/submit" method="post" class="bg-gray-800 shadow-md px-28 pt-6 pb-8">
     <input type="hidden" name="accessKey" value="5af42346-7980-4b67-b265-a1767f251419">
     <div class="mb-4">
     <label class="block text-slate-200 font-bold mb-2" for="name">
